@@ -3,4 +3,4 @@
 ## Week 1
 
 ### HTML- tehtävä
-https://users.metropolia.fi/~alessap/html_week1/week1.html
+https://users.metropolia.fi/~alessap/web-kehitys/html_week1/
